@@ -2,12 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-        <key>Description</key>
-        <string>This project builds a Cocoa-based application written in Nu.</string>
-        <key>FilesToMacroExpand</key>
-        <array>
-                <string>main.m</string>
-                <string>main.nu</string>
-        </array>
+	<key>Description</key>
+	<string>This project builds a Cocoa-based application written in Nu.</string>
+	<key>FilesToMacroExpand</key>
+	<array>
+		<string>main.m</string>
+		<string>main.nu</string>
+		<string>Info.plist</string>
+	</array>
 </dict>
 </plist>
