@@ -260,7 +260,7 @@
 				GCC_PREFIX_HEADER = Nu_Application_Prefix.pch;
 				INFOPLIST_FILE = Info.plist;
 				INSTALL_PATH = "$(HOME)/Applications";
-				PRODUCT_NAME = "Nu Application";
+				PRODUCT_NAME = "«PROJECTNAME»";
 			};
 			name = Release;
 		};
