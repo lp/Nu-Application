@@ -1,8 +1,8 @@
-// Â«FILENAMEÂ»
-// Â«PROJECTNAMEÂ»
+// main.m
+// ÇPROJECTNAMEÈ
 //
-// Created by Â«FULLUSERNAMEÂ» on Â«DATEÂ».
-// Copyright Â«YEARÂ» Â«ORGANIZATIONNAMEÂ». All rights reserved.
+// Created by ÇFULLUSERNAMEÈ on ÇDATEÈ.
+// Copyright ÇYEARÈ ÇORGANIZATIONNAMEÈ. All rights reserved.
 
 #import <Nu/Nu.h>
 
