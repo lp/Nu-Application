@@ -1,0 +1,151 @@
+TNu Application
+v7
+r1
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/Nu.framework
+c000000004C8ACD2A00000000000000CC
+t1284164906
+s204
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/Nu.framework/Headers/Nu.h
+c000000004C845B680000000000000543
+t1283742568
+s1347
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/Nu.framework/Nu
+c000000004C8ACD6A00000000000FD2F0
+t1284164970
+s1037040
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/English.lproj/InfoPlist.strings
+c000000004CA346AB000000000000002D
+t1285768875
+s45
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/English.lproj/MainMenu.xib
+c000000004CA346AB000000000002BBB8
+t1285768875
+s179128
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/Nu_ApplicationAppDelegate.h
+c000000004CA346AB0000000000000147
+t1285768875
+s327
+i<Cocoa/Cocoa.h>
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/Nu_ApplicationAppDelegate.m
+c000000004CA346AB0000000000000183
+t1285768875
+s387
+i"Nu_ApplicationAppDelegate.h"
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/Nu_Application_Prefix.pch
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/Frameworks/Nu.framework
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/Info.plist
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/MacOS/Nu Application
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Nu Application.build/Debug/Nu Application.build/Objects-normal/x86_64/Nu Application.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Nu Application.build/Debug/Nu Application.build/Objects-normal/x86_64/Nu_ApplicationAppDelegate.o
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Nu Application.build/Debug/Nu Application.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/main.m
+c000000004CA3487E0000000000000124
+t1285769342
+s292
+i<Nu/Nu.h>
+
+N/var/folders/mC/mCxAOxLoFCuWvYmrR7CGNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nu_Application_Prefix-bigsmpvsduiyhzcujzdcuqoezfzd/Nu_Application_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/mC/mCxAOxLoFCuWvYmrR7CGNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nu_Application_Prefix-cuogpaqzldhbebgziullcnrxsyve/Nu_Application_Prefix.pch.gch
+t2
+s0
+
+NNu_Application-Info.plist
+c000000004CA346AB00000000000003EA
+t1285768875
+s1002
+
+CCompileC "build/Nu Application.build/Debug/Nu Application.build/Objects-normal/x86_64/Nu_ApplicationAppDelegate.o" "/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/Nu_ApplicationAppDelegate.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Nu Application.build/Debug/Nu Application.build/Objects-normal/x86_64/main.o" "/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/English.lproj/MainMenu.xib"
+r0
+
+CCopyStringsFile "/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CLd "/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/MacOS/Nu Application" normal x86_64
+r0
+
+CPBXCp "build/Debug/Nu Application.app/Contents/Frameworks/Nu.framework" /Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/Nu.framework
+r0
+
+CProcessInfoPlistFile "/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app/Contents/Info.plist" Nu_Application-Info.plist
+r0
+
+CProcessPCH /var/folders/mC/mCxAOxLoFCuWvYmrR7CGNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nu_Application_Prefix-bigsmpvsduiyhzcujzdcuqoezfzd/Nu_Application_Prefix.pch.gch Nu_Application_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/mC/mCxAOxLoFCuWvYmrR7CGNE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nu_Application_Prefix-cuogpaqzldhbebgziullcnrxsyve/Nu_Application_Prefix.pch.gch Nu_Application_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/lpperron/Documents/lllaptop/git_repos/nu/Nu-Application/Nu Application/build/Debug/Nu Application.app"
+r0
+
